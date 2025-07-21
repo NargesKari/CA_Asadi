@@ -1,0 +1,12 @@
+hit random way1 = 0.42
+hit random way2 = 0.3
+hit random way4 = 0.25
+hit random way8 = 0.27
+Hit random way16 = 0.29
+Hit random way32 = 0.32
+Hit lru way1 = 0.36
+Hit lru way2 = 0.41
+Hit lru way4 = 0.45
+Hit lru way8 =0.44
+Hit lru way16 = 0.45
+Hit lru way32 = 0.45
